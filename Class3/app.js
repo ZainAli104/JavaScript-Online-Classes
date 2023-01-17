@@ -1,3 +1,4 @@
+//class 3
 function addArgus() {
     let sum = 0;
     for (let i=0; arguments.length > i; i++) {
